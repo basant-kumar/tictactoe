@@ -1,9 +1,21 @@
 # Tic-Tac-Toe
 
-[Play online](https://tictactoe-basant-play.basantkmeena.chatgpt.site) — public, no sign-in required.
+[Play online](https://tictactoe.basantkmeena.chatgpt.site) — public, no sign-in required.
 
 A responsive two-player game with alternating turns, win and draw detection,
 winning-cell highlights, and a restart button. Players share one browser. This is a same-device game; remote multiplayer is not included.
+
+## One-shot implementation
+
+The game was built from a single user request using Codex and RoleMux:
+
+> Can you create a web based tictactoe game with basic functions? use rolemux for this project.
+
+RoleMux handled planning, implementation, and code review, with automated tests
+and review-driven refinements in the same build session. “One-shot” refers to
+that single initial game-building request, rather than a build without review
+or fixes. Later follow-ups made the game and repository public and refined
+this documentation and the URL.
 
 ## Run locally
 
