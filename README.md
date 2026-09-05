@@ -7,7 +7,7 @@ winning-cell highlights, and a restart button. Players share one browser. This i
 
 ## One-shot implementation
 
-The game was built from a single user request using Codex and RoleMux:
+The game was built from a single user request using Codex and [RoleMux](https://github.com/basant-kumar/rolemux):
 
 > Can you create a web based tictactoe game with basic functions? use rolemux for this project.
 
