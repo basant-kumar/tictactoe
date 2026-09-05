@@ -1,7 +1,9 @@
 # Tic-Tac-Toe
 
+[Play online](https://tictactoe-basant-play.basantkmeena.chatgpt.site) — public, no sign-in required.
+
 A responsive two-player game with alternating turns, win and draw detection,
-winning-cell highlights, and a restart button. Players share one browser.
+winning-cell highlights, and a restart button. Players share one browser. This is a same-device game; remote multiplayer is not included.
 
 ## Run locally
 
