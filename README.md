@@ -38,3 +38,7 @@ npm run build
 
 Game source passes `npx oxlint app lib` and TypeScript checking. The full
 `npm run lint` command reports existing errors in unused scaffold UI components.
+
+## License
+
+Licensed under the [MIT License](LICENSE). Third-party dependencies retain their respective licenses.
