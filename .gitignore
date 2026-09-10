@@ -39,3 +39,6 @@ next-env.d.ts
 
 # TypeScript incremental cache
 *.tsbuildinfo
+
+# RoleMux workflow state
+/.rolemux/
